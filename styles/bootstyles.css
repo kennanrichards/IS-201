@@ -1,0 +1,43 @@
+.common{
+    text-align: center;
+    position:static;
+}
+
+.header{
+    height:100px;
+    background-color: lavenderblush;
+    color:lightcoral; 
+    font-size:x-large;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: lightcoral;
+    color:white; 
+    right: 5px;
+    left: 5px;
+}
+
+.footer{
+    height:50px;
+    background-color: peachpuff;
+    color:white; 
+    line-height:50px;
+}
+
+img{
+    width:25%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.tableauPlaceholder{
+    width:40%;
+}
+
+footer{
+    height:50px;
+    line-height: 50px;
+    text-align: center;
+}
